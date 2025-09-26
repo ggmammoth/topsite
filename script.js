@@ -10,7 +10,7 @@ const servers = {
   ],
   afterWeek: [
     { name: "LegendsMU", version: "S12 Ep1", votes: 500 },
-    { name: "EliteMU", version: "S9 Ep2", votes: 300 }
+    { name: "EliteMUdada", version: "S9 Ep2", votes: 300 }
   ],
   opened: [
     { name: "GlobalMU", version: "S13 Ep1", votes: 2500 },
